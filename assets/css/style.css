@@ -156,6 +156,10 @@ body {
     margin-right: 40px;
   }
   
+  img{
+      height: 200px;
+      width: 200px;
+  }
   .work img {
     width: 100%;
     border: 0 none;
